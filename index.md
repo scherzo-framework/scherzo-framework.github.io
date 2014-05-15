@@ -7,6 +7,7 @@ Scherzo
 =======
 
 Here is some code:
+
     public function doSomething($arg = null)
     {
     }
