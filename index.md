@@ -13,7 +13,7 @@ Here is some code:
 
 Alternatively:
 
-{% highlight php %}
+{% highlight php startinline %}
     public function doSomething($arg = null)
     {
     }
